@@ -2,6 +2,44 @@
 	font-family:cursive;
 	text-align:center;
 	color:blue;
-	border:1px inset black;
-	padding:5px;
+}
+.main{
+	border:1px solid black;
+	padding:50px;
+	width:800px;
+	position:relative;
+	left:250px;
+}
+#first{
+	border:5px outset black;
+	padding:10px;
+	width:500px;
+	white-space: nowrap;
+	height:100px;
+	position:relative;
+	left:10%;
+}
+#firstPic{
+	float:left;
+}
+.text{
+	display:inline;
+	white-space: nowrap;
+}
+.link{
+	font-family:cursive;
+	font-size: 20px;
+	font-weight: bold;
+	height:20px;
+	position:relative;
+	top:-15px;
+	text-indent:40px;
+}
+.description{
+	font-family:Times;
+	font-size:15px;
+	font-weight:italic;
+	position:relative;
+	top:-15px;
+	text-indent:40px;
 }
