@@ -1,4 +1,7 @@
-#first{
-	text-align:center;
+h1{
 	font-family:cursive;
+	text-align:center;
+	color:blue;
+	border:1px inset black;
+	padding:5px;
 }
